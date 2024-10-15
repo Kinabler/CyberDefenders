@@ -17,7 +17,7 @@
 
 ![alt text](image-3.png)
 
-Link: https://malapi.io/winapi/RegSetValueExA 
+Link: https://malapi.io/winapi/RegSetValueExA<br>
 ![alt text](image-4.png)
 
 > **Advapi32.dll**
@@ -42,7 +42,7 @@ Using Command Line with [Floss](https://github.com/mandiant/flare-floss) Tool
 
 ![alt text](image-7.png)
 
-Link: https://whatismyipaddress.com/ip/154.82.85.12 <br>
+Link: https://whatismyipaddress.com/ip/154.82.85.12<br>
 ![alt text](image-8.png)
 
 > **154.82.85.12**
