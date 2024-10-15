@@ -42,7 +42,7 @@ Using Command Line with [Floss](https://github.com/mandiant/flare-floss) Tool
 
 ![alt text](image-7.png)
 
-Link: https://whatismyipaddress.com/ip/154.82.85.12
+Link: https://whatismyipaddress.com/ip/154.82.85.12 <br>
 ![alt text](image-8.png)
 
 > **154.82.85.12**
