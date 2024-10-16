@@ -104,3 +104,4 @@ SELECT * FROM Win32_ComputerSystem WHERE Manufacturer LIKE '%VMware%'
 
 > **inSP0fl62**()
 
+Link Lab: [AgentTesla](https://cyberdefenders.org/blueteam-ctf-challenges/agenttesla/)
