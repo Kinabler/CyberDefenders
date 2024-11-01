@@ -1,0 +1,66 @@
+Volatility 3 Framework 2.8.0
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionIdWow64		CreateTime	ExitTime	File output
+
+4	0	System		0xde855c463200	196	-	N/A	False	2024-09-18 10:59:41.000000 UTC	N/A	Disabled
+88	4	Registry	0xde855c50a080	4	-	N/A	False	2024-09-18 10:59:36.000000 UTC	N/A	Disabled
+320	4	smss.exe	0xde855fd920c0	2	-	N/A	False	2024-09-18 10:59:41.000000 UTC	N/A	Disabled
+428	420	csrss.exe	0xde855feeb140	11	-	0	False	2024-09-18 10:59:42.000000 UTC	N/A	Disabled
+532	420	wininit.exe	0xde8560eda080	1	-	0	False	2024-09-18 10:59:42.000000 UTC	N/A	Disabled
+540	524	csrss.exe	0xde8560edf140	11	-	1	False	2024-09-18 10:59:42.000000 UTC	N/A	Disabled
+600	524	winlogon.exe	0xde8560f19080	4	-	1	False	2024-09-18 10:59:42.000000 UTC	N/A	Disabled
+676	532	services.exe	0xde8560edd140	8	-	0	False	2024-09-18 10:59:42.000000 UTC	N/A	Disabled
+684	532	lsass.exe	0xde8560f43140	8	-	0	False	2024-09-18 10:59:42.000000 UTC	N/A	Disabled
+804	676	svchost.exe	0xde8560f80080	17	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+832	532	fontdrvhost.ex	0xde8561620140	5	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+836	600	fontdrvhost.ex	0xde8561622140	5	-	1	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+924	676	svchost.exe	0xde8560ed3080	10	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1016	600	dwm.exe		0xde85616a2080	13	-	1	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+424	676	svchost.exe	0xde85616d6200	42	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+544	676	svchost.exe	0xde85616d9280	25	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+828	676	svchost.exe	0xde85617042c0	14	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+964	676	svchost.exe	0xde8561706280	22	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1052	676	svchost.exe	0xde8561715240	24	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1064	676	svchost.exe	0xde8561717280	4	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1128	676	svchost.exe	0xde8561745280	19	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1336	676	svchost.exe	0xde8561781080	7	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1452	676	svchost.exe	0xde85617952c0	12	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1552	676	svchost.exe	0xde85618e96c0	4	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+1880	676	svchost.exe	0xde8561a0e200	16	-	0	False	2024-09-18 10:59:43.000000 UTC	N/A	Disabled
+2288	676	spoolsv.exe	0xde855c5a4080	10	-	0	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+2376	676	svchost.exe	0xde8561b1d200	11	-	0	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+2452	676	svchost.exe	0xde8561b65200	7	-	0	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+2560	676	vmtoolsd.exe	0xde8561bdf080	14	-	0	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+2572	676	vm3dservice.ex	0xde8561c07080	4	-	0	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+2624	676	wlms.exe	0xde8561b47200	4	-	0	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+2632	676	VGAuthService.	0xde8561c112c0	2	-	0	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+2808	2572	vm3dservice.ex	0xde8561cb1240	5	-	1	False	2024-09-18 10:59:44.000000 UTC	N/A	Disabled
+3024	676	svchost.exe	0xde8561e892c0	3	-	0	False	2024-09-18 10:59:45.000000 UTC	N/A	Disabled
+3408	676	dllhost.exe	0xde856206d240	12	-	0	False	2024-09-18 10:59:45.000000 UTC	N/A	Disabled
+3728	804	WmiPrvSE.exe	0xde8562093080	13	-	0	False	2024-09-18 10:59:45.000000 UTC	N/A	Disabled
+4068	676	msdtc.exe	0xde855c77c240	9	-	0	False	2024-09-18 10:59:46.000000 UTC	N/A	Disabled
+2328	676	svchost.exe	0xde8562235080	5	-	0	False	2024-09-18 10:59:53.000000 UTC	N/A	Disabled
+2268	424	sihost.exe	0xde85622512c0	14	-	1	False	2024-09-18 10:59:53.000000 UTC	N/A	Disabled
+4124	424	taskhostw.exe	0xde856227a340	6	-	1	False	2024-09-18 10:59:53.000000 UTC	N/A	Disabled
+4368	1052	ctfmon.exe	0xde85622a02c0	8	-	1	False	2024-09-18 10:59:54.000000 UTC	N/A	Disabled
+4532	600	userinit.exe	0xde856233c580	0	-	1	False	2024-09-18 10:59:54.000000 UTC	2024-09-18 11:00:15.000000 UTC	Disabled
+4592	424	explorer.exe	0xde856229c2c0	43	-	1	False	2024-09-18 10:59:54.000000 UTC	N/A	Disabled
+5016	804	ShellExperienc	0xde85624e0080	16	-	1	False	2024-09-18 10:59:55.000000 UTC	N/A	Disabled
+388	804	RuntimeBroker.	0xde85624ef080	3	-	1	False	2024-09-18 10:59:56.000000 UTC	N/A	Disabled
+4572	804	RuntimeBroker.	0xde85624ee080	9	-	1	False	2024-09-18 10:59:56.000000 UTC	N/A	Disabled
+4784	804	RuntimeBroker.	0xde8562280380	3	-	1	False	2024-09-18 10:59:56.000000 UTC	N/A	Disabled
+5172	676	svchost.exe	0xde85626da280	7	-	0	False	2024-09-18 11:00:00.000000 UTC	N/A	Disabled
+5716	4592	vmtoolsd.exe	0xde8562b803c0	9	-	1	False	2024-09-18 11:00:07.000000 UTC	N/A	Disabled
+6048	804	dllhost.exe	0xde8561b63640	6	-	1	False	2024-09-18 11:00:25.000000 UTC	N/A	Disabled
+4668	804	ApplicationFra	0xde85619f3640	1	-	1	False	2024-09-18 11:01:17.000000 UTC	N/A	Disabled
+5932	676	svchost.exe	0xde85618c9340	3	-	0	False	2024-09-18 11:01:18.000000 UTC	N/A	Disabled
+1208	676	Sysmon.exe	0xde8562342580	15	-	0	False	2024-09-18 11:07:38.000000 UTC	N/A	Disabled
+4104	804	unsecapp.exe	0xde8560f10080	2	-	0	False	2024-09-18 11:07:38.000000 UTC	N/A	Disabled
+6072	676	MsMpEng.exe	0xde85628d5080	8	-	0	False	2024-09-18 11:10:54.000000 UTC	N/A	Disabled
+4832	804	smartscreen.ex	0xde856278f080	7	-	1	False	2024-09-18 11:22:10.000000 UTC	N/A	Disabled
+4672	676	SecurityHealth	0xde856288a080	4	-	0	False	2024-09-18 11:39:20.000000 UTC	N/A	Disabled
+5744	600	LogonUI.exe	0xde8562034300	14	-	1	False	2024-09-18 11:50:17.000000 UTC	N/A	Disabled
+1032	676	VSSVC.exe	0xde8562adf080	10	-	0	False	2024-09-18 12:01:31.000000 UTC	N/A	Disabled
+4536	676	svchost.exe	0xde856220f080	8	-	0	False	2024-09-18 12:01:31.000000 UTC	N/A	Disabled
+4100	804	SearchUI.exe	0xde85624df080	13	-	1	False	2024-09-18 12:01:36.000000 UTC	N/A	Disabled
+4720	804	backgroundTask	0xde8560f11080	7	-	1	False	2024-09-18 12:01:42.000000 UTC	N/A	Disabled

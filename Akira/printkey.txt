@@ -1,0 +1,139 @@
+Volatility 3 Framework 2.8.0
+
+Last Write Time	Hive Offset	Type	Key	Name	Data	Volatile
+
+2024-09-18 12:01:36.000000 UTC	0xce86d2037000	Key	[NONAME]	A		False
+2024-09-18 11:18:18.000000 UTC	0xce86d2037000	Key	[NONAME]	MACHINE		False
+2024-09-18 10:59:52.000000 UTC	0xce86d2037000	Key	[NONAME]	USER		False
+2024-09-18 10:59:36.000000 UTC	0xce86d2037000	Key	[NONAME]	WC		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	ActivationBroker		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	ControlSet001		False
+2024-09-11 21:24:57.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	ControlSet002		False
+2024-09-18 05:58:37.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	DriverDatabase		False
+2024-09-18 10:59:36.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	HardwareConfig		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	Input		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	Keyboard Layout		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	Maps		False
+2024-09-16 11:46:35.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	MountedDevices		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	ResourceManager		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	ResourcePolicyStore		False
+2024-09-18 10:59:36.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	RNG		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	Select		False
+2024-09-16 15:17:24.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	Setup		False
+2024-09-11 21:25:17.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	Software		False
+2024-09-11 11:29:42.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	WaaS		False
+2024-09-16 12:01:05.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	WPA		False
+2024-09-18 10:59:36.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM	CurrentControlSet		True
+2024-09-18 10:59:36.000000 UTC	0xce86d20da000	Key	\REGISTRY\MACHINE\HARDWARE	ACPI		False
+2024-09-18 10:59:36.000000 UTC	0xce86d20da000	Key	\REGISTRY\MACHINE\HARDWARE	DESCRIPTION		False
+2024-09-18 10:59:42.000000 UTC	0xce86d20da000	Key	\REGISTRY\MACHINE\HARDWARE	DEVICEMAP		False
+2024-09-18 10:59:36.000000 UTC	0xce86d20da000	Key	\REGISTRY\MACHINE\HARDWARE	RESOURCEMAP		True
+2024-09-18 11:19:50.000000 UTC	0xce86d2ae6000	Key	\Device\HarddiskVolume2\EFI\Microsoft\Boot\BCD	Description		False
+2024-09-18 11:19:50.000000 UTC	0xce86d2ae6000	Key	\Device\HarddiskVolume2\EFI\Microsoft\Boot\BCD	Objects		False
+2024-09-18 11:03:52.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Classes		False
+2018-09-15 09:08:41.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Clients		False
+2018-09-15 07:19:26.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	DefaultUserEnvironment		False
+2018-09-15 07:19:26.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Google		False
+2018-09-15 07:19:26.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Intel		False
+2024-09-18 11:10:50.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Microsoft		False
+2024-09-18 11:10:50.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Mozilla		False
+2018-09-15 07:19:23.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	ODBC		False
+2022-11-05 19:04:07.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	OpenSSH		False
+2018-09-15 07:19:23.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Partner		False
+2024-09-18 05:58:12.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Policies		False
+2024-09-11 11:40:40.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	RegisteredApplications		False
+2018-09-15 07:18:43.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	Setup		False
+2024-09-11 11:40:48.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	VMware, Inc.		False
+2024-09-18 10:59:42.000000 UTC	0xce86d2b09000	Key	\SystemRoot\System32\Config\SOFTWARE	WOW6432Node		False
+2024-09-11 21:25:30.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	Console		False
+2018-09-15 09:08:25.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	Control Panel		False
+2018-09-15 07:19:21.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	Environment		False
+2018-09-15 07:19:21.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	EUDC		False
+2024-09-11 21:26:14.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	Keyboard Layout		False
+2024-09-18 05:59:53.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	Printers		False
+2024-09-11 11:40:49.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	Software		False
+2024-09-11 21:25:25.000000 UTC	0xce86d2aee000	Key	\SystemRoot\System32\Config\DEFAULT	System		False
+2024-09-11 21:24:59.000000 UTC	0xce86d5d2d000	Key	\SystemRoot\System32\Config\SAM	SAM		False
+2024-09-18 11:40:09.000000 UTC	0xce86d5d2f000	Key	\SystemRoot\System32\Config\SECURITY	Cache		False
+2024-09-11 21:25:33.000000 UTC	0xce86d5d2f000	Key	\SystemRoot\System32\Config\SECURITY	Policy		False
+2024-09-15 14:23:16.000000 UTC	0xce86d5d2f000	Key	\SystemRoot\System32\Config\SECURITY	RXACT		False
+2024-09-18 10:59:42.000000 UTC	0xce86d5d2f000	Key	\SystemRoot\System32\Config\SECURITY	SAM		True
+2024-09-11 21:25:00.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	AppEvents		False
+2024-09-11 21:25:00.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Console		False
+2024-09-11 21:25:00.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Control Panel		False
+2024-09-11 21:25:00.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Environment		False
+2024-09-11 21:25:00.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	EUDC		False
+2024-09-11 21:26:13.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Keyboard Layout		False
+2024-09-11 21:25:00.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Network		False
+2024-09-11 11:40:49.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Software		False
+2024-09-11 21:25:00.000000 UTC	0xce86d6045000	Key	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	System		False
+2024-09-18 12:01:42.000000 UTC	0xce86d6191000	Key	\SystemRoot\System32\Config\BBI	Events		False
+2024-09-18 12:01:42.000000 UTC	0xce86d6191000	Key	\SystemRoot\System32\Config\BBI	WorkItems		False
+2024-09-11 21:25:19.000000 UTC	0xce86d6191000	REG_DWORD	\SystemRoot\System32\Config\BBI	Version	2	False
+2024-09-11 21:25:19.000000 UTC	0xce86d6191000	REG_DWORD	\SystemRoot\System32\Config\BBI	MinorVersion	2	False
+2024-09-11 21:25:04.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	AppEvents		False
+2024-09-11 21:25:04.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Console		False
+2024-09-11 21:25:04.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Control Panel		False
+2024-09-11 21:25:04.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Environment		False
+2024-09-11 21:25:04.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	EUDC		False
+2024-09-11 21:26:13.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Keyboard Layout		False
+2024-09-11 21:25:04.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Network		False
+2024-09-18 05:59:53.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Printers		False
+2024-09-11 11:40:49.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Software		False
+2024-09-11 21:25:04.000000 UTC	0xce86d619f000	Key	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	System		False
+2024-09-15 11:03:37.000000 UTC	0xce86d70ec000	Key	\??\C:\Windows\AppCompat\Programs\Amcache.hve	Root		False
+2024-09-11 11:29:46.000000 UTC	0xce86d70ec000	REG_SZ	\??\C:\Windows\AppCompat\Programs\Amcache.hve	CreatingCommand	"C:\Windows\system32\CompatTelRunner.exe -m:devinv.dll -f:CreateDeviceInventory -cv:DNy/DDsFvUSmJa3B.4 -oobe"	False
+2024-09-11 11:29:46.000000 UTC	0xce86d70ec000	REG_SZ	\??\C:\Windows\AppCompat\Programs\Amcache.hve	CreatingModule	"C:\Windows\system32\devinv.dll"	False
+2024-09-15 14:41:40.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	AppEvents		False
+2024-09-15 14:41:40.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Console		False
+2024-09-16 15:15:59.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Control Panel		False
+2024-09-15 14:41:40.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Environment		False
+2024-09-15 14:41:40.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	EUDC		False
+2024-09-15 14:41:41.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Keyboard Layout		False
+2024-09-15 14:41:40.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Network		False
+2024-09-18 05:58:42.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Printers		False
+2024-09-18 11:07:38.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Software		False
+2024-09-15 14:41:46.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	System		False
+2024-09-18 10:59:53.000000 UTC	0xce86d71e4000	Key	\??\C:\Users\Administrator.CYDEF\ntuser.dat	Volatile Environment		True
+2024-09-15 14:42:17.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	.all		False
+2024-09-15 14:42:20.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	.c5e2524a-ea46-4f67-841f-6a9465d9d515		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ActivatableClasses		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX0jr688mrddhm2gsn5y1q8jpx5tfsxk7s		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX3p914qnpgw4hwj856jw2y286v7d4qnzh		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX40nx3azkcssh7ybcbzzjpgf1mg561cyz		False
+2024-09-15 14:42:20.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX69r31t6nmawqr1gdamcsndphj2v4a6cx		False
+2024-09-15 14:42:17.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX6efkedsh4s4yrd49cf5nmjaza776n10d		False
+2024-09-15 14:42:19.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX85jqyztr8fqc6b7sw64y2mjjrnx59njs		False
+2024-09-15 14:42:20.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX8mn6f6acw2d3hves535dpq0zqnxqkec7		False
+2024-09-15 14:42:18.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppX9kvz3rdv8t7twanaezbwfcdgrbg3bck0		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppXak1hygz1tpjjnxhr1pwtcgnkpr24r5e7		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppXb6t8194632yvzp2fm989q0bfn7x48r84		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppXe8d7fy32jcm7fkx8p2wzxa43pep36805		False
+2024-09-15 14:42:17.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppXhhkhyqrpsdn2kgtvr6qf6att22kmtadz		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppXnn90p29wc108haje7ahczjhc00h3p5sf		False
+2024-09-15 14:42:17.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppXrrebmngeb0a7ggdd6sec1cq49468v8qr		False
+2024-09-15 14:42:21.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	AppXtkjk7ve8gcvsz7s2y4kkf56wrmb5edr7		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	Extensions		False
+2024-09-16 11:36:28.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	Local Settings		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-aad-brokerplugin		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-actioncenter		False
+2024-09-15 14:42:18.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-apprep		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-cortana		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-cxh		False
+2024-09-15 14:41:43.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-device-enrollment		False
+2024-09-15 14:42:19.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-inputapp		False
+2024-09-15 14:42:20.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-oobenetwork		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-penworkspace		False
+2024-09-15 14:41:44.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-screenclip		False
+2024-09-15 14:42:17.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	ms-xgpueject		False
+2024-09-15 14:42:17.000000 UTC	0xce86d71ea000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Microsoft\Windows\UsrClass.dat	windowsdefender		False
+2024-09-11 21:25:32.000000 UTC	0xce86d7875000	Key	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	ActivatableClassId		False
+2024-09-11 21:25:32.000000 UTC	0xce86d7875000	Key	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Server		False
+-	0xce86d78e1000	Key	?\	-		-
+-	0xce86d7efd000	Key	?\	-		-
+2024-09-11 21:25:31.000000 UTC	0xce86db1c7000	Key	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Cortana_1.11.6.17763_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	ActivatableClassId		False
+2024-09-11 21:25:31.000000 UTC	0xce86db1c7000	Key	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Cortana_1.11.6.17763_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Interfaces		False
+2024-09-11 21:25:31.000000 UTC	0xce86db1c7000	Key	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Cortana_1.11.6.17763_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	ProxyStubCLSIDs		False
+2024-09-11 21:25:31.000000 UTC	0xce86db1c7000	Key	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Cortana_1.11.6.17763_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Server		False
+2024-09-18 12:01:36.000000 UTC	0xce86db1ca000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat	LocalState		False
+2024-09-15 14:41:47.000000 UTC	0xce86db1ca000	Key	\??\C:\Users\Administrator.CYDEF\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat	RoamingState		False

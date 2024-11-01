@@ -1,0 +1,33 @@
+Volatility 3 Framework 2.8.0
+
+Last Write Time	Hive Offset	Type	Key	Name	Data	Volatile
+
+-	0xce86d2037000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+2024-09-16 12:03:51.000000 UTC	0xce86d203b000	Key	\REGISTRY\MACHINE\SYSTEM\ControlSet001\Services\LanmanServer\Shares	Security		False
+2024-09-16 12:03:51.000000 UTC	0xce86d203b000	REG_MULTI_SZ	\REGISTRY\MACHINE\SYSTEM\ControlSet001\Services\LanmanServer\Shares	data	"CATimeout=0
+CSCFlags=2048
+MaxUses=4294967295
+Path=Z:\Shares\data
+Permissions=860
+Remark=
+ShareName=data
+Type=0
+
+"	False
+-	0xce86d20da000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d2ae6000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d2b09000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d2aee000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d5d2d000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d5d2f000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d6045000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d6191000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d619f000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d70ec000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d71e4000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d71ea000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d7875000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d78e1000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86d7efd000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86db1c7000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-
+-	0xce86db1ca000	Key	?\ControlSet001\Services\LanmanServer\Shares	-		-

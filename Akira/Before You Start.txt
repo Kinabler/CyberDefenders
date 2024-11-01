@@ -1,0 +1,4 @@
+Important Notes:
+-----------------
+- It's recommended to use EvtxECmd to parse logs extracted from memory and then load them into Timeline Explorer for improved visibility and more efficient log analysis.
+- To properly use ELEX (Event Log Explorer), you can drag and drop event log files directly into the application, as the free version does not include the explorer feature.
