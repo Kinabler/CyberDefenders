@@ -1,0 +1,1 @@
+Read Writeup here: https://medium.com/@yousefadel291/bluesky-ransomware-blue-team-lab-e8becc457c20
